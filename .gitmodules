@@ -1,0 +1,3 @@
+[submodule "mdsfest-opensource-mds"]
+	path = mdsfest-opensource-mds
+	url = https://github.com/dagster-io/mdsfest-opensource-mds
